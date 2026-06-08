@@ -39,7 +39,22 @@ who publish data, experiments, and real workflows.
 - Newsletters archived in `/research/other/newsletters/`
 
 ## Status
+## Status
 - [x] Folder structure created
 - [x] sources.md with 10 expert annotations
-- [ ] YouTube transcripts collected
-- [ ] LinkedIn posts collected
+- [x] YouTube transcripts collected (5 experts via youtube-transcript-api)
+- [x] LinkedIn posts collected (8 experts, 3 posts each = 24 posts total)
+
+## Content Summary
+| Expert | YouTube Transcript | LinkedIn Posts |
+|--------|-------------------|----------------|
+| Kevin Indig | ✅ | ✅ 3 posts |
+| Aleyda Solis | ✅ | ✅ 3 posts |
+| Kyle Roof | ✅ | ✅ 3 posts |
+| Bernard Huang | ✅ | ✅ 3 posts |
+| Lazarina Stoy | ✅ | ✅ 3 posts |
+| Ross Hudgens | — | ✅ 3 posts |
+| Brendan Hufford | — | ✅ 3 posts |
+| Chima Mmeje | — | ✅ 3 posts |
+| Eli Schwartz | — | — (inactive on LinkedIn) |
+| Nate Matherson | — | — (pivoted away from SEO) |
